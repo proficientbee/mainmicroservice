@@ -6,3 +6,5 @@ Techstack:
 Spring Cloud(Eureka, zull, slueth, Hysterix, Config etc)
 Spring Data JPA
 Spring Data REST
+
+And Also other Components
